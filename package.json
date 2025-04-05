@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon backend/server.js",
     "start": "node backend/server.js",
-    "build": "npm run dev"
+    "build": "npm run start"
   },
   "author": "",
   "license": "ISC",
